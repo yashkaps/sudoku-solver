@@ -3,5 +3,7 @@ Aim to use multiple languages to implement a sudoku solver using a backtracking 
 
 # Progress
 Python: implemented
+
 Java: in progress
+
 C++: next step
