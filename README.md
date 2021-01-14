@@ -4,6 +4,6 @@ Aim to use multiple languages to implement a sudoku solver using a backtracking 
 # Progress
 Python: implemented
 
-Java: in progress
+Java: implemented
 
 C++: next step
